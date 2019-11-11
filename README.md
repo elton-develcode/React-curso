@@ -54,9 +54,8 @@ Some languages already accepted in this module: Portuguese from Portugal / Brazi
 
 ### Installing It
 
-1. Clone this repository and go to the lm-instala-translations folder:
-
-:octocat: 
+1. :octocat: Clone this repository and go to the lm-instala-translations folder:
+ 
 
 ```
 git clone https://github.com/leroy-merlin-br/lm-instala-translations.git
