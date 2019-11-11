@@ -3,7 +3,7 @@
 
 # Lm-Instala-Translations
 
-Module in [Leroy Merlin](https://www.leroymerlin.com.br/)    - **Instala** for system translation.
+Module in [Leroy Merlin](https://www.leroymerlin.com.br/) (https://github.com/elton-develcode/images/blob/master/logos/cprght.png)   - **Instala** for system translation.
 </br></br>
 
 > Leroy Merlin Brazil  🇧🇷 - Instala Team
