@@ -3,7 +3,7 @@
 
 # Lm-Instala-Translations
 
-Module in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for system translation.
+Module in [Leroy Merlin](https://www.leroymerlin.com.br/)  copyright  - **Instala** for system translation.
 </br></br>
 
 > Leroy Merlin Brazil  🇧🇷 - Instala Team
