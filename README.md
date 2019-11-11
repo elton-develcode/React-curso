@@ -158,7 +158,7 @@ cd lm-instala-translations
        API_INSTALA_SATSFTN: http://localhost:8086/lm-instala-rating
        API_KEY: key
 ```
- :attention: ###### Attention: _Important file identification_
+ ###### Attention: _Important file identification_
 
 </br></br>
 
