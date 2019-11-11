@@ -27,12 +27,11 @@ The **Lm-Instala-Translations** is a module for defining the system language ** 
 
 </br>
 
-Let's suppose that you have a specific parameter, for example, an URL for sales or test system.
+Let's say you have one in a specific country, such as Germany, and need to access the system.
 
-Possibly this parameter can be changed and you would have to change it everywhere in the system that needs this url. So this Installa module helps with this setup.
+Possibly when going through this module, the system should change the messages and set it to the configured country.
 
-Some settings of this module: Time zone, emails, phones and others present in the application.
-
+Some languages already accepted in this module: Portuguese from Portugal / Brazil, Italian, German, Polish, English ...
 </br></br>
 
 ## Getting started
