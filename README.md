@@ -3,7 +3,7 @@
 
 # Lm-Instala-Translations
 
-Microservice in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for parameter definition project.
+Module in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for system translation.
 </br></br>
 
 > Leroy Merlin Brazil  🇧🇷 - Instala Team
