@@ -195,7 +195,7 @@ Maven himself is in charge of running the tests and returning the results.
 
 Reporting bugs or unexpected behavior, and/or non-standard code
 
-You might want to open an issue to discuss something that you believe that should belong to this API or even go ahead and open a Pull Request with your proposal. We have a Continuous Integration server that will make sure that the tests are passing and the coding standard is ok. Also, all pull requests are reviewed. :)
+You might want to open an issue to discuss something that you believe that should belong to this API or even go ahead and open a Pull Request with your proposal. We have a Continuous Integration server that will make sure that the tests are passing and the coding standard is ok. Also, all pull requests are reviewed :wink:
 
  * [Developers](https://github.com/adeo/lm-instala-parameters/blob/developer/DEVELOPERS.md)
  * [Code of Conduct](https://github.com/adeo/lm-instala-parameters/blob/developer/CODE_OF_CONDUCT.md)
