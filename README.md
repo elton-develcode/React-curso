@@ -12,7 +12,7 @@ Module in [Leroy Merlin](https://www.leroymerlin.com.br/) - **Instala** for syst
 
 **Why:** To assist system translation according to the configured country.
 
-**What:** To assist the application in system translation, such as labels and messages.
+**What:** Returns the translation of the parameters as requested language.
 </br></br></br>
 
 ## Summary
