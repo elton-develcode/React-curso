@@ -124,7 +124,7 @@ cd lm-instala-translations
  ```
   MAIL_PASSWORD = {mail_password}
  ```
- Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
+ :bangbang: Where {ip}, {port}, {db_schema}, {username}, {password}, {mail_host}, {mail_port}, {mail_user} and
 {mail_password} must be replaced with actual database and mail values.
 
  Example for docker-compose.yml:
